@@ -6,11 +6,10 @@
 
 **Sleekhue** serves as a collaborative space for developers and enthusiasts to create and share projects that simplify life. Our mission is to build tools that are not only functional but also user-friendly and efficient.
 
-## Current Projects 🚀
+## Current Project 🚀
 
-- **Quick-Score**: A browser extension that delivers real-time updates on sports scores, ensuring you never miss a moment of the action. ⚽️🏀
-  
-- **Leet-Cal**: A tool designed to help users manage their LeetCode practice schedule, track progress, and optimize their learning experience. 📅
+- **Quick-Score**: A browser extension that delivers real-time updates on sports scores, ensuring you never miss a moment of the action. ⚽️🏀  
+  You can check it out [@here](https://chromewebstore.google.com/detail/quick-score-live-score-an/igbedijjdbkpodndbnhdbhngogjdakni).
 
 ## Future Projects 🔍
 
