@@ -1,10 +1,10 @@
-# Welcome to **Sleekhue**! 👋
+# Welcome to **Sprint North Studious**! 👋
 
-**Sleekhue** is dedicated to developing innovative projects that enhance productivity and provide useful tools for everyday tasks. Here, you will find various projects aimed at solving real-world problems and improving user experiences.
+**Sprint North Studious** is dedicated to developing innovative projects that enhance productivity and provide useful tools for everyday tasks. Here, you will find various projects aimed at solving real-world problems and improving user experiences.
 
-## About **Sleekhue**
+## About **Sprint North Studious**
 
-**Sleekhue** serves as a collaborative space for developers and enthusiasts to create and share projects that simplify life. Our mission is to build tools that are not only functional but also user-friendly and efficient.
+**Sprint North Studious** serves as a collaborative space for developers and enthusiasts to create and share projects that simplify life. Our mission is to build tools that are not only functional but also user-friendly and efficient.
 
 ## Current Project 🚀
 
@@ -37,4 +37,4 @@ Follow us on GitHub to keep up with our latest projects and updates. We also enc
 
 This organization adheres to open-source principles. Please check the individual repositories for specific licensing information.
 
-Thank you for visiting **Sleekhue**! We look forward to your contributions and hope you enjoy using our projects.
+Thank you for visiting **Sprint North Studious**! We look forward to your contributions and hope you enjoy using our projects.
