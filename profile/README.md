@@ -2,8 +2,6 @@
 
 **Sprint North Studious** is dedicated to developing innovative projects that enhance productivity and provide useful tools for everyday tasks. Here, you will find various projects aimed at solving real-world problems and improving user experiences.
 
-# MVP Development Services | Sprint North Studious
-
 Transform your innovative ideas into market-ready solutions with Sprint North Studious Works' specialized MVP development services. We excel at helping entrepreneurs validate their concepts and launch successful minimum viable products quickly and efficiently.
 
 ## Our MVP Development Expertise
@@ -54,6 +52,7 @@ We support you through the launch phase and help gather user feedback to guide f
 
 Let's discuss how we can help bring your idea to life. Contact us to schedule a consultation.
  
-**Website:** [www.Sprint North Studious.com](https://www.Sprint North Studious.com/)
+**MVP or Landing Pages** [cal.com](https://cal.com/hartdrawss/15)
+**Web-3 Projects** [cal.com](https://cal.com/wasimmemon/15min)
 
 Transform your vision into reality with Our Works' MVP development expertise.
